@@ -1,22 +1,22 @@
 /**
- * 
- * Question: 
+ *
+ * Question:
  * Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
- * 
+ *
  * Example 1:
  * Input: nums = [2,7,11,15], target = 9
  * Output: [0,1]
  * Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
- * 
+ *
  */
 
 /**
- * 
- * Solution: 
  *
- * In this solution, each item in the array checks the rule. 
- * If the sum of two different items in the array is equal to target. The return of the function is equals their indices. 
- * 
+ * Solution:
+ *
+ * In this solution, each item in the array checks the rule.
+ * If the sum of two different items in the array is equal to target. The return of the function is equals their indices.
+ *
  */
 
 /**
@@ -34,6 +34,5 @@ const twoSum = function (nums: number[], target: number): number[] | undefined {
     }
   }
 };
-
 
 export default twoSum;
