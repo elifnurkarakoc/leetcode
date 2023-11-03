@@ -16,6 +16,8 @@
 | 3 | Filter Elements from Array |  [✅](./30-days-of-JS/filter-elements-from-array/solution.ts) | Easy |
 | 4 | Array Reduce Transformation
  |  [✅](./30-days-of-JS/array-reduce-transformation/solution.ts) | Easy |
+| 5 | Function Composition
+ |  [✅](./30-days-of-JS/function-composition/solution.ts) | Easy |
 
 
 
