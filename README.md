@@ -18,6 +18,8 @@
  |  [✅](./30-days-of-JS/array-reduce-transformation/solution.ts) | Easy |
 | 5 | Function Composition
  |  [✅](./30-days-of-JS/function-composition/solution.ts) | Easy |
+| 6 | Return Length of Arguments Passed
+ |  [✅](./30-days-of-JS/return-length-of-arguments-passed/solution.ts) | Easy |
 
 
 
