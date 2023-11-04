@@ -20,9 +20,10 @@
  |  [✅](./30-days-of-JS/function-composition/solution.ts) | Easy |
 | 6 | Return Length of Arguments Passed
  |  [✅](./30-days-of-JS/return-length-of-arguments-passed/solution.ts) | Easy |
-| 6 | Allow One Function Call
+| 7 | Allow One Function Call
  |  [✅](./30-days-of-JS/allow-one-function-call/solution.ts) | Easy |
-
+| 8 | Memoize
+ |  [✅](./30-days-of-JS/memoize/solution.ts) | Easy |
 
 
 
