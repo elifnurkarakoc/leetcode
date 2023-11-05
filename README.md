@@ -23,7 +23,7 @@
 | 7 | Allow One Function Call
  |  [✅](./30-days-of-JS/allow-one-function-call/solution.ts) | Easy |
 | 8 | Memoize
- |  [✅](./30-days-of-JS/memoize/solution.ts) | Easy |
-
-
+ |  [✅](./30-days-of-JS/memoize/solution.ts) | Medium |
+| 9 | Add Two Promises
+ |  [✅](./30-days-of-JS/add-two-promises/solution.ts) | Easy |
 
