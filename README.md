@@ -21,3 +21,5 @@
 | 8 | Memoize |  [✅](./30-days-of-JS/memoize/solution.ts) | Medium |
 | 9 | Add Two Promises |  [✅](./30-days-of-JS/add-two-promises/solution.ts) | Easy |
 | 10 | Sleep |  [✅](./30-days-of-JS/sleep/solution.ts) | Easy |
+| 11 | Timeout Cancellation |  [✅](./30-days-of-JS/timeout-cancellation/solution.ts) | Easy |
+
