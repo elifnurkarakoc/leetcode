@@ -22,4 +22,5 @@
 | 9 | Add Two Promises |  [✅](./30-days-of-JS/add-two-promises/solution.ts) | Easy |
 | 10 | Sleep |  [✅](./30-days-of-JS/sleep/solution.ts) | Easy |
 | 11 | Timeout Cancellation |  [✅](./30-days-of-JS/timeout-cancellation/solution.ts) | Easy |
+| 12 | Interval Cancellation |  [✅](./30-days-of-JS/interval-cancellation/solution.ts) | Easy |
 

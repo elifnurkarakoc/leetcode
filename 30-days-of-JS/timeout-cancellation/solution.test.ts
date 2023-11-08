@@ -19,8 +19,6 @@ describe('cancellable', () => {
 
     const cancel = cancellable(log, [2], 20);
 
-    const maxT = Math.max(t, 50);
-
     setTimeout(cancel, cancelT);
 
     const timer = setTimeout(() => {
