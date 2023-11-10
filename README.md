@@ -23,6 +23,9 @@
 | 10 | Sleep |  [✅](./30-days-of-JS/sleep/solution.ts) | Easy |
 | 11 | Timeout Cancellation |  [✅](./30-days-of-JS/timeout-cancellation/solution.ts) | Easy |
 | 12 | Interval Cancellation |  [✅](./30-days-of-JS/interval-cancellation/solution.ts) | Easy |
-| 13 | Promise Time Limit |  [✅](./30-days-of-JS/promise-time-limit/solution.ts) | Easy |
+| 13 | Promise Time Limit |  [✅](./30-days-of-JS/promise-time-limit/solution.ts) | Medium |
+| 14 | Is Object Empty |  [✅](./30-days-of-JS/is-object-empty/solution.ts) | Easy |
+
+
 
 
