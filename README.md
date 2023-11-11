@@ -25,6 +25,7 @@
 | 12 | Interval Cancellation |  [✅](./30-days-of-JS/interval-cancellation/solution.ts) | Easy |
 | 13 | Promise Time Limit |  [✅](./30-days-of-JS/promise-time-limit/solution.ts) | Medium |
 | 14 | Is Object Empty |  [✅](./30-days-of-JS/is-object-empty/solution.ts) | Easy |
+| 15 | Chunk Array |  [✅](./30-days-of-JS/chunk-array/solution.ts) | Easy |
 
 
 
