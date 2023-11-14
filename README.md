@@ -28,6 +28,7 @@
 | 15 | Chunk Array |  [✅](./30-days-of-JS/chunk-array/solution.ts) | Easy |
 | 16 | Array Prototype Last |  [✅](./30-days-of-JS/array-prototype-last/solution.ts) | Easy |
 | 17 | Sort By |  [✅](./30-days-of-JS/sort-by/solution.ts) | Easy |
+| 18 | Array Wrapper |  [✅](./30-days-of-JS/array-wrapper/solution.ts) | Easy |
 
 
 
