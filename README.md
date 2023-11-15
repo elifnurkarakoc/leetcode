@@ -29,6 +29,8 @@
 | 16 | Array Prototype Last |  [✅](./30-days-of-JS/array-prototype-last/solution.ts) | Easy |
 | 17 | Sort By |  [✅](./30-days-of-JS/sort-by/solution.ts) | Easy |
 | 18 | Array Wrapper |  [✅](./30-days-of-JS/array-wrapper/solution.ts) | Easy |
+| 19 | Calculator with Method Chaining |  [✅](./30-days-of-JS/calculator-with-method-chaining/solution.ts) | Easy |
+
 
 
 
