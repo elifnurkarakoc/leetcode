@@ -7,5 +7,4 @@ describe('Calculator', () => {
 
     expect(100).to.eq(result);
   });
-
 });

@@ -1,41 +1,41 @@
 class Calculator {
-	private result: number;
-	constructor(value: number) {
-		this.result = value
-	}
+  private result: number;
+  constructor(value: number) {
+    this.result = value;
+  }
 
-	add(value: number): Calculator {
-		this.result += value;
-		return this
-	}
+  add(value: number): Calculator {
+    this.result += value;
+    return this;
+  }
 
-	subtract(value: number): Calculator {
-		this.result -= value;
-		return this
-	}
+  subtract(value: number): Calculator {
+    this.result -= value;
+    return this;
+  }
 
-	multiply(value: number): Calculator {
-		this.result *= value;
-		return this
-	}
+  multiply(value: number): Calculator {
+    this.result *= value;
+    return this;
+  }
 
-	divide(value: number): Calculator {
-		if (value == 0) {
-			throw new Error("Division by zero is not allowed")
-		}
+  divide(value: number): Calculator {
+    if (value == 0) {
+      throw new Error('Division by zero is not allowed');
+    }
 
-		this.result /= value;
-		return this
-	}
+    this.result /= value;
+    return this;
+  }
 
-	power(value: number): Calculator {
-		this.result = Math.pow(this.result, value);
-		return this
-	}
+  power(value: number): Calculator {
+    this.result = Math.pow(this.result, value);
+    return this;
+  }
 
-	getResult(): number {
-		return this.result
-	}
+  getResult(): number {
+    return this.result;
+  }
 }
 
 export default Calculator;
