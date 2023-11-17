@@ -28,7 +28,7 @@
 | 15 | Interval Cancellation |  [✅](./30-days-of-JS/interval-cancellation/solution.ts) | Easy | [TODO]() | 
 | 16 | Promise Time Limit |  [✅](./30-days-of-JS/promise-time-limit/solution.ts) | Medium | [TODO]() | 
 | 17 | Cache With Time Limit |  [✅](./30-days-of-JS/cache-with-time-limit/solution.ts) | Medium | [TODO]() | 
-| 18 | Debounce |  [TODO]() | Medium | [TODO]() | 
+| 18 | Debounce |  [✅](./30-days-of-JS/debounce/solution.ts) | Medium | [TODO]() | 
 | 19 | Execute Asynchronous Functions in Parallel |  [TODO]() | Medium | [TODO]() | 
 | 20 | Is Object Empty |  [✅](./30-days-of-JS/is-object-empty/solution.ts) | Easy | [TODO]() | 
 | 21 | Chunk Array |  [✅](./30-days-of-JS/chunk-array/solution.ts) | Easy | [TODO]() | 
