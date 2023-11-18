@@ -15,9 +15,9 @@
 | 2 | Counter |  [✅]() | <span style="color:green">Easy</span>  |
 | 3 | To Be Or Not To Be |  [✅]() | <span style="color:green">Easy</span>  |
 | 4 | Counter II |  [✅](./30-days-of-JS/counter-ii/counter.ts) | <span style="color:green">Easy</span>  |[✅](./30-days-of-JS/counter-ii/README.md) |
-| 5 | Apply Transform Over Each Element in Array |  [✅](./30-days-of-JS/apply-transform-over-each-element-in-array/solution.ts) | <span style="color:green">Easy</span>  | [TODO](./30-days-of-JS/apply-transform-over-each-element-in-array/README.md) | 
-| 6 | Filter Elements from Array |  [✅](./30-days-of-JS/filter-elements-from-array/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
-| 7 | Array Reduce Transformation |  [✅](./30-days-of-JS/array-reduce-transformation/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
+| 5 | Apply Transform Over Each Element in Array |  [✅](./30-days-of-JS/apply-transform-over-each-element-in-array/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/apply-transform-over-each-element-in-array/README.md) | 
+| 6 | Filter Elements from Array |  [✅](./30-days-of-JS/filter-elements-from-array/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/filter-elements-from-array/README.md) | 
+| 7 | Array Reduce Transformation |  [✅](./30-days-of-JS/array-reduce-transformation/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/array-reduce-transformation/README.md) | 
 | 8 | Function Composition |  [✅](./30-days-of-JS/function-composition/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
 | 9 | Return Length of Arguments Passed |  [✅](./30-days-of-JS/return-length-of-arguments-passed/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
 | 10 | Allow One Function Call |  [✅](./30-days-of-JS/allow-one-function-call/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
