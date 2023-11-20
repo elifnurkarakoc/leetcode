@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 | 1 | Two Sum |  [✅](./solutions/typescript/twoSum/twoSum.ts) | <span style="color:green">Easy</span>  |
+| 2 | Palindrome Number |  [✅](./solutions/typescript/palindrome-number/solution.ts) | <span style="color:green">Easy</span>  |
 
 
 ## 30-days-of-JavaScript
