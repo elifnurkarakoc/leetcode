@@ -22,7 +22,7 @@
 | 8 | Function Composition |  [✅](./30-days-of-JS/function-composition/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/function-composition/README.md) | 
 | 9 | Return Length of Arguments Passed |  [✅](./30-days-of-JS/return-length-of-arguments-passed/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/return-length-of-arguments-passed/README.md) | 
 | 10 | Allow One Function Call |  [✅](./30-days-of-JS/allow-one-function-call/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/allow-one-function-call/README.md) | 
-| 11 | Memoize |  [✅](./30-days-of-JS/memoize/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() | 
+| 11 | Memoize |  [✅](./30-days-of-JS/memoize/solution.ts) | <span style="color:orange">Medium</span> | [✅](./30-days-of-JS/memoize/README.md) | 
 | 12 | Add Two Promises |  [✅](./30-days-of-JS/add-two-promises/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/add-two-promises/README.md)| [TODO]() | 
 | 13 | Sleep |  [✅](./30-days-of-JS/sleep/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
 | 14 | Timeout Cancellation |  [✅](./30-days-of-JS/timeout-cancellation/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
