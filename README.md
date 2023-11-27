@@ -26,7 +26,7 @@
 | 12 | Add Two Promises |  [✅](./30-days-of-JS/add-two-promises/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/add-two-promises/README.md)|
 | 13 | Sleep |  [✅](./30-days-of-JS/sleep/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/sleep/README.md) | 
 | 14 | Timeout Cancellation |  [✅](./30-days-of-JS/timeout-cancellation/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/timeout-cancellation/README.md) | 
-| 15 | Interval Cancellation |  [✅](./30-days-of-JS/interval-cancellation/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
+| 15 | Interval Cancellation |  [✅](./30-days-of-JS/interval-cancellation/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/interval-cancellation/README.md) | 
 | 16 | Promise Time Limit |  [✅](./30-days-of-JS/promise-time-limit/solution.ts) | <span style="color:orange">Medium</span>  | [TODO]() | 
 | 17 | Cache With Time Limit |  [✅](./30-days-of-JS/cache-with-time-limit/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() | 
 | 18 | Debounce |  [✅](./30-days-of-JS/debounce/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() | 
