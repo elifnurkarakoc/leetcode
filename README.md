@@ -31,7 +31,7 @@
 | 17 | Cache With Time Limit |  [✅](./30-days-of-JS/cache-with-time-limit/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() | 
 | 18 | Debounce |  [✅](./30-days-of-JS/debounce/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() | 
 | 19 | Execute Asynchronous Functions in Parallel |  [✅](./30-days-of-JS/execute-asynchronous-functions-in-parallel/solution.ts) | <span style="color:orange">Medium</span> | [✅](./30-days-of-JS/execute-asynchronous-functions-in-parallel/README.md) | 
-| 20 | Is Object Empty |  [✅](./30-days-of-JS/is-object-empty/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
+| 20 | Is Object Empty |  [✅](./30-days-of-JS/is-object-empty/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/is-object-empty/README.md) | 
 | 21 | Chunk Array |  [✅](./30-days-of-JS/chunk-array/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
 | 22 | Array Prototype Last |  [✅](./30-days-of-JS/array-prototype-last/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/array-prototype-last/README.md) |
 | 23 | Group By |  [✅](./30-days-of-JS/group-by/solution.ts) | <span style="color:orange">Medium</span> | [✅](./30-days-of-JS/group-by/REDAME.md) | 

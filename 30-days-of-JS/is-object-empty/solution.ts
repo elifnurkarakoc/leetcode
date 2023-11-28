@@ -9,7 +9,9 @@ type Obj = Record<string, JSONValue> | JSONValue[];
 
 function isEmpty(obj: Obj): boolean {
   // return JSON.stringify(obj).length<=2;
-  for (const value in obj) return false;
+  for (const value in obj) {
+    return false;
+  }
   return true;
 }
 
