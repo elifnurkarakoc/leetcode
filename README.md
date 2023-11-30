@@ -41,4 +41,4 @@
 | 27 | Compact Object|  [TODO]() | <span style="color:orange">Medium</span> | [TODO]() | 
 | 28 | Event Emitter |  [TODO]() | <span style="color:orange">Medium</span> | [TODO]() | 
 | 29 | Array Wrapper |  [✅](./30-days-of-JS/array-wrapper/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
-| 30 | Calculator with Method Chaining |  [✅](./30-days-of-JS/calculator-with-method-chaining/solution.ts) | <span style="color:green">Easy</span>  | [TODO]() | 
+| 30 | Calculator with Method Chaining |  [✅](./30-days-of-JS/calculator-with-method-chaining/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/calculator-with-method-chaining/README.md) | 
