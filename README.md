@@ -51,3 +51,4 @@
 | 1 | Merge Strings Alternately |  [✅](./leetcode-75/merge-strings-alternately/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/merge-strings-alternately/README.md) |
 | 2 | Single Number |  [✅](./leetcode-75/single-number/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/single-number/README.md) |
 | 3 | Find Pivot Index |  [✅](./leetcode-75/find-pivot-index/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/find-pivot-index/README.md) |
+| 4 | Can Place Flowers |  [✅](./leetcode-75/can-place-flowers/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/can-place-flowers/README.md) |
