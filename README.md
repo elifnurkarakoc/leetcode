@@ -54,4 +54,7 @@
 | 4 | Can Place Flowers |  [✅](./leetcode-75/can-place-flowers/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/can-place-flowers/README.md) |
 |   | Single Number |  [✅](./leetcode-75/single-number/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/single-number/README.md) |
 |   | Find Pivot Index |  [✅](./leetcode-75/find-pivot-index/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/find-pivot-index/README.md) |
+|   | Number of Recent Calls |  [✅](./leetcode-75/number-of-recent-calls/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/number-of-recent-calls/README.md) |
+
+
 
