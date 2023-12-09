@@ -2,6 +2,7 @@ type F = (...args: number[]) => void;
 
 function debounce(fn: F, t: number): F {
   let timerId: ReturnType<typeof setTimeout>;
+
   return function (...args) {
     clearTimeout(timerId);
     timerId = setTimeout(() => {
@@ -9,6 +10,7 @@ function debounce(fn: F, t: number): F {
     }, t);
   };
 }
+
 export default debounce;
 
 /**
