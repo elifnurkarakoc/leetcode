@@ -12,7 +12,7 @@
 
 | # | Title | Solution | Difficulty | Explanation |
 |---| ----- | -------- | ---------- | ----------- |
-| 1 | Create Hello World Function |  [✅]() | <span style="color:green">Easy</span> | |
+| 1 | Create Hello World Function |  []() | <span style="color:green">Easy</span> | |
 | 2 | Counter |  [✅]() | <span style="color:green">Easy</span>  |
 | 3 | To Be Or Not To Be |  [✅]() | <span style="color:green">Easy</span>  |
 | 4 | Counter II |  [✅](./30-days-of-JS/counter-ii/counter.ts) | <span style="color:green">Easy</span>  |[✅](./30-days-of-JS/counter-ii/README.md) |
@@ -52,9 +52,75 @@
 | 2 | Greatest Common Divisor of Strings |  [✅](./leetcode-75/greatest-common-divisor-of-strings/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/greatest-common-divisor-of-strings/README.md) |
 | 3 | Kids With the Greatest Number of Candies |  [✅](./leetcode-75/kids-with-the-greatest-number-of-candies/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/kids-with-the-greatest-number-of-candies/README.md) |
 | 4 | Can Place Flowers |  [✅](./leetcode-75/can-place-flowers/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/can-place-flowers/README.md) |
-|   | Single Number |  [✅](./leetcode-75/single-number/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/single-number/README.md) |
+| | Reverse Vowels of a String | []() | <span style="color:green">Easy</span> | |
+| | Reverse Words in a String | []() | <span style="color:orange">Medium</span> | |
+| | Product of Array Except Self | []() | <span style="color:orange">Medium</span> | |
+| | Increasing Triplet Subsequence | []() | <span style="color:orange">Medium</span> | |
+| | String Compression | []() | <span style="color:orange">Medium</span> | |
+| | Move Zeroes | []() | <span style="color:green">Easy</span> | |
+| | Is Subsequence | []() | <span style="color:green">Easy</span> | |
+| | Container With Most Water | []() | <span style="color:orange">Medium</span> | |
+| | Max Number of K-Sum Pairs | []() | <span style="color:orange">Medium</span> | |
+| | Maximum Average Subarray I | []() | <span style="color:green">Easy</span> | |
+| | Maximum Number of Vowels in a Substring of Given Length | []() | <span style="color:orange">Medium</span> | |
+| | Max Consecutive Ones III | []() | <span style="color:orange">Medium</span> | |
+| | Longest Subarray of 1's After Deleting One Element | []() | <span style="color:orange">Medium</span> | |
+| | Find the Highest Altitude | []() | <span style="color:green">Easy</span> | |
 |   | Find Pivot Index |  [✅](./leetcode-75/find-pivot-index/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/find-pivot-index/README.md) |
+| | Find the Difference of Two Arrays | []() | <span style="color:green">Easy</span> | |
+| | Unique Number of Occurrences | []() | <span style="color:green">Easy</span> | |
+| | Determine if Two Strings Are Close | []() | <span style="color:orange">Medium</span> | |
+| | Equal Row and Column Pairs | []() | <span style="color:orange">Medium</span> | |
+| | Removing Stars From a String | []() | <span style="color:orange">Medium</span> | |
+| | Asteroid Collision | []() | <span style="color:orange">Medium</span> | |
+| | Decode String | []() | <span style="color:orange">Medium</span> | |
 |   | Number of Recent Calls |  [✅](./leetcode-75/number-of-recent-calls/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/number-of-recent-calls/README.md) |
-
-
+| | Dota2 Senate | []() | <span style="color:orange">Medium</span> | |
+| | Delete the Middle Node of a Linked List | []() | <span style="color:orange">Medium</span> | |
+| | Odd Even Linked List | []() | <span style="color:orange">Medium</span> | |
+| | Reverse Linked List | []() | <span style="color:green">Easy</span> | |
+| | Maximum Twin Sum of a Linked List | []() | <span style="color:orange">Medium</span> | |
+| | Maximum Depth of Binary Tree | []() | <span style="color:green">Easy</span> | |
+| | Leaf-Similar Trees | []() | <span style="color:green">Easy</span> | |
+| | Count Good Nodes in Binary Tree | []() | <span style="color:orange">Medium</span> | |
+| | Path Sum III | []() | <span style="color:orange">Medium</span> | |
+| | Longest ZigZag Path in a Binary Tree | []() | <span style="color:orange">Medium</span> | |
+| | Lowest Common Ancestor of a Binary Tree | []() | <span style="color:orange">Medium</span> | |
+| | Binary Tree Right Side View | []() | <span style="color:orange">Medium</span> | |
+| | Maximum Level Sum of a Binary Tree | []() | <span style="color:orange">Medium</span> | |
+| | Search in a Binary Search Tree | []() | <span style="color:green">Easy</span> | |
+| | Delete Node in a BST | []() | <span style="color:orange">Medium</span> | |
+| | Keys and Rooms | []() | <span style="color:orange">Medium</span> | |
+| | Number of Provinces | []() | <span style="color:orange">Medium</span> | |
+| | Reorder Routes to Make All Paths Lead to the City Zero | []() | <span style="color:orange">Medium</span> | |
+| | Evaluate Division | []() | <span style="color:orange">Medium</span> | |
+| | Nearest Exit from Entrance in Maze | []() | <span style="color:orange">Medium</span> | |
+| | Rotting Oranges | []() | <span style="color:orange">Medium</span> | |
+| | Kth Largest Element in an Array | []() | <span style="color:orange">Medium</span> | |
+| | Smallest Number in Infinite Set | []() | <span style="color:orange">Medium</span> | |
+| | Maximum Subsequence Score | []() | <span style="color:orange">Medium</span> | |
+| | Total Cost to Hire K Workers | []() | <span style="color:orange">Medium</span> | |
+| | Guess Number Higher or Lower | []() | <span style="color:green">Easy</span> | |
+| | Successful Pairs of Spells and Potions | []() | <span style="color:orange">Medium</span> | |
+| | Find Peak Element | []() | <span style="color:orange">Medium</span> | |
+| | Koko Eating Bananas | []() | <span style="color:orange">Medium</span> | |
+| | Letter Combinations of a Phone Number | []() | <span style="color:orange">Medium</span> | |
+| | Combination Sum III | []() | <span style="color:orange">Medium</span> | |
+| | N-th Tribonacci Number | []() | <span style="color:green">Easy</span> | |
+| | Min Cost Climbing Stairs | []() | <span style="color:green">Easy</span> | |
+| | House Robber | []() | <span style="color:orange">Medium</span> | |
+| | Domino and Tromino Tiling | []() | <span style="color:orange">Medium</span> | |
+| | Unique Paths | []() | <span style="color:orange">Medium</span> | |
+| | Longest Common Subsequence | []() | <span style="color:orange">Medium</span> | |
+| | Best Time to Buy and Sell Stock with Transaction Fee | []() | <span style="color:orange">Medium</span> | |
+| | Edit Distance | []() | <span style="color:orange">Medium</span> | |
+| | Counting Bits | []() | <span style="color:green">Easy</span> | |
+|   | Single Number |  [✅](./leetcode-75/single-number/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/single-number/README.md) |
+| | Minimum Flips to Make a OR b Equal to c | []() | <span style="color:orange">Medium</span> | |
+| | Implement Trie (Prefix Tree) | []() | <span style="color:orange">Medium</span> | |
+| | Search Suggestions System | []() | <span style="color:orange">Medium</span> | |
+| | Non-overlapping Intervals | []() | <span style="color:orange">Medium</span> | |
+| | Minimum Number of Arrows to Burst Balloons | []() | <span style="color:orange">Medium</span> | |
+| | Daily Temperatures | []() | <span style="color:orange">Medium</span> | |
+| | Online Stock Span | []() | <span style="color:orange">Medium</span> | |
 
