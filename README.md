@@ -57,7 +57,7 @@
 | | Product of Array Except Self | []() | <span style="color:orange">Medium</span> | |
 | | Increasing Triplet Subsequence | []() | <span style="color:orange">Medium</span> | |
 | | String Compression | []() | <span style="color:orange">Medium</span> | |
-| | Move Zeroes | []() | <span style="color:green">Easy</span> | |
+| | Move Zeroes | [✅](./leetcode-75/move-zeroes/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/move-zeroes/README.md) |
 | | Is Subsequence | []() | <span style="color:green">Easy</span> | |
 | | Container With Most Water | []() | <span style="color:orange">Medium</span> | |
 | | Max Number of K-Sum Pairs | []() | <span style="color:orange">Medium</span> | |
