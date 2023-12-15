@@ -28,7 +28,7 @@
 | 14 | Timeout Cancellation |  [✅](./30-days-of-JS/timeout-cancellation/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/timeout-cancellation/README.md) | 
 | 15 | Interval Cancellation |  [✅](./30-days-of-JS/interval-cancellation/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/interval-cancellation/README.md) | 
 | 16 | Promise Time Limit |  [✅](./30-days-of-JS/promise-time-limit/solution.ts) | <span style="color:orange">Medium</span>  | [✅](./30-days-of-JS/promise-time-limit/README.md) | 
-| 17 | Cache With Time Limit |  [✅](./30-days-of-JS/cache-with-time-limit/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() | 
+| 17 | Cache With Time Limit |  [✅](./30-days-of-JS/cache-with-time-limit/solution.ts) | <span style="color:orange">Medium</span> | [✅](./30-days-of-JS/cache-with-time-limit/README.md) | 
 | 18 | Debounce |  [✅](./30-days-of-JS/debounce/solution.ts) | <span style="color:orange">Medium</span> | [✅](./30-days-of-JS/debounce/README.md) | 
 | 19 | Execute Asynchronous Functions in Parallel |  [✅](./30-days-of-JS/execute-asynchronous-functions-in-parallel/solution.ts) | <span style="color:orange">Medium</span> | [✅](./30-days-of-JS/execute-asynchronous-functions-in-parallel/README.md) | 
 | 20 | Is Object Empty |  [✅](./30-days-of-JS/is-object-empty/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/is-object-empty/README.md) | 
