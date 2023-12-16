@@ -39,7 +39,7 @@
 | 25 | Join Two Arrays by ID |  [✅](./30-days-of-JS/join-two-arrays-by-id/solution.ts) | <span style="color:orange">Medium</span> | [✅](./30-days-of-JS/join-two-arrays-by-id/README.md) | 
 | 26 | Flatten Deeply Nested Array|  [✅](./30-days-of-JS/flatten-deeply-nested-array/solution.ts) | <span style="color:orange">Medium</span> | [✅](./30-days-of-JS/flatten-deeply-nested-array/README.md) | 
 | 27 | Compact Object|  [✅](./30-days-of-JS/compact-object/README.md) | <span style="color:orange">Medium</span> | [✅](./30-days-of-JS/compact-object/solution.ts) | 
-| 28 | Event Emitter |  [TODO]() | <span style="color:orange">Medium</span> | [TODO]() | 
+| 28 | Event Emitter |  [✅](./30-days-of-JS/event-emitter/solution.ts) | <span style="color:orange">Medium</span> | [✅](./30-days-of-JS/event-emitter/README.md) | 
 | 29 | Array Wrapper |  [✅](./30-days-of-JS/array-wrapper/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/array-wrapper/README.md) | 
 | 30 | Calculator with Method Chaining |  [✅](./30-days-of-JS/calculator-with-method-chaining/solution.ts) | <span style="color:green">Easy</span>  | [✅](./30-days-of-JS/calculator-with-method-chaining/README.md) | 
 
