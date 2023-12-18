@@ -52,8 +52,8 @@
 | 2 | Greatest Common Divisor of Strings |  [✅](./leetcode-75/greatest-common-divisor-of-strings/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/greatest-common-divisor-of-strings/README.md) |
 | 3 | Kids With the Greatest Number of Candies |  [✅](./leetcode-75/kids-with-the-greatest-number-of-candies/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/kids-with-the-greatest-number-of-candies/README.md) |
 | 4 | Can Place Flowers |  [✅](./leetcode-75/can-place-flowers/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/can-place-flowers/README.md) |
-| | Reverse Vowels of a String | [✅](./leetcode-75/reverse-vowels-of-a-string/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/reverse-vowels-of-a-string/README.md)|
-| | Reverse Words in a String | []() | <span style="color:orange">Medium</span> | |
+| 5 | Reverse Vowels of a String | [✅](./leetcode-75/reverse-vowels-of-a-string/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/reverse-vowels-of-a-string/README.md)|
+| | Reverse Words in a String | [✅](./leetcode-75/reverse-words-in-a-string/solution.ts) | <span style="color:orange">Medium</span> | [✅](./leetcode-75/reverse-words-in-a-string//README.md) |
 | | Product of Array Except Self | []() | <span style="color:orange">Medium</span> | |
 | | Increasing Triplet Subsequence | []() | <span style="color:orange">Medium</span> | |
 | | String Compression | []() | <span style="color:orange">Medium</span> | |
