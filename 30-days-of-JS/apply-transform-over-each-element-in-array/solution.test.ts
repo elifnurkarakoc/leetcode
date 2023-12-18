@@ -4,7 +4,7 @@ import map from './solution';
 describe('createCounter', function () {
   it('plusone()', function () {
     const arr = [1, 2, 3];
-    function plusone(n) {
+    function plusone(n: number) {
       return n + 1;
     }
     const result = map(arr, plusone);

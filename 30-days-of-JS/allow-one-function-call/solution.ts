@@ -7,8 +7,9 @@ type JSONValue =
   | { [key: string]: JSONValue };
 type OnceFn = (...args: JSONValue[]) => JSONValue | undefined;
 
-function once(fn: Function): OnceFn {
+function once(fn: (...args: JSONValue[]) => JSONValue): OnceFn {
   let isCall = false;
+
   return function (...args) {
     if (!isCall) {
       isCall = true;
@@ -19,11 +20,3 @@ function once(fn: Function): OnceFn {
 }
 
 export default once;
-
-/**
- * let fn = (a,b,c) => (a + b + c)
- * let onceFn = once(fn)
- *
- * onceFn(1,2,3); // 6
- * onceFn(2,3,6); // returns undefined without calling fn
- */
