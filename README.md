@@ -55,7 +55,7 @@
 | 5 | Reverse Vowels of a String | [✅](./leetcode-75/reverse-vowels-of-a-string/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/reverse-vowels-of-a-string/README.md)|
 | 6 | Reverse Words in a String | [✅](./leetcode-75/reverse-words-in-a-string/solution.ts) | <span style="color:orange">Medium</span> | [✅](./leetcode-75/reverse-words-in-a-string//README.md) |
 | 7 | Product of Array Except Self | [✅](./leetcode-75/product-of-array-except-self/solution.ts) | <span style="color:orange">Medium</span> | [✅](./leetcode-75/product-of-array-except-self/README.md) |
-| | Increasing Triplet Subsequence | []() | <span style="color:orange">Medium</span> | |
+| 8 | Increasing Triplet Subsequence | [✅](./leetcode-75/increasing-triplet-subsequence/solution.ts) | <span style="color:orange">Medium</span> | [TODO]()|
 | | String Compression | []() | <span style="color:orange">Medium</span> | |
 | | Move Zeroes | [✅](./leetcode-75/move-zeroes/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/move-zeroes/README.md) |
 | | Is Subsequence | []() | <span style="color:green">Easy</span> | |
