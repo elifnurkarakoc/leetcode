@@ -56,7 +56,7 @@
 | 6 | Reverse Words in a String | [✅](./leetcode-75/reverse-words-in-a-string/solution.ts) | <span style="color:orange">Medium</span> | [✅](./leetcode-75/reverse-words-in-a-string//README.md) |
 | 7 | Product of Array Except Self | [✅](./leetcode-75/product-of-array-except-self/solution.ts) | <span style="color:orange">Medium</span> | [✅](./leetcode-75/product-of-array-except-self/README.md) |
 | 8 | Increasing Triplet Subsequence | [✅](./leetcode-75/increasing-triplet-subsequence/solution.ts) | <span style="color:orange">Medium</span> | [TODO]()|
-| | String Compression | []() | <span style="color:orange">Medium</span> | |
+| 9 | String Compression | [✅](./leetcode-75/string-compression/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() |
 | | Move Zeroes | [✅](./leetcode-75/move-zeroes/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/move-zeroes/README.md) |
 | | Is Subsequence | []() | <span style="color:green">Easy</span> | |
 | | Container With Most Water | []() | <span style="color:orange">Medium</span> | |
