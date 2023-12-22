@@ -58,7 +58,7 @@
 | 8 | Increasing Triplet Subsequence | [✅](./leetcode-75/increasing-triplet-subsequence/solution.ts) | <span style="color:orange">Medium</span> | [TODO]()|
 | 9 | String Compression | [✅](./leetcode-75/string-compression/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() |
 | | Move Zeroes | [✅](./leetcode-75/move-zeroes/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/move-zeroes/README.md) |
-| | Is Subsequence | []() | <span style="color:green">Easy</span> | |
+| | Is Subsequence | [✅](./leetcode-75/is-subsequence/solution.ts) | <span style="color:green">Easy</span> | [TODO]() |
 | | Container With Most Water | []() | <span style="color:orange">Medium</span> | |
 | | Max Number of K-Sum Pairs | []() | <span style="color:orange">Medium</span> | |
 | | Maximum Average Subarray I | []() | <span style="color:green">Easy</span> | |
