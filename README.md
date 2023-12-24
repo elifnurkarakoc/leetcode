@@ -88,7 +88,7 @@
 | | Lowest Common Ancestor of a Binary Tree | []() | <span style="color:orange">Medium</span> | |
 | | Binary Tree Right Side View | []() | <span style="color:orange">Medium</span> | |
 | | Maximum Level Sum of a Binary Tree | []() | <span style="color:orange">Medium</span> | |
-| | Search in a Binary Search Tree | []() | <span style="color:green">Easy</span> | |
+| | Search in a Binary Search Tree | [✅](./leetcode-75/search-in-a-binary-search-tree/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/search-in-a-binary-search-tree/README.md) |
 | | Delete Node in a BST | []() | <span style="color:orange">Medium</span> | |
 | | Keys and Rooms | []() | <span style="color:orange">Medium</span> | |
 | | Number of Provinces | []() | <span style="color:orange">Medium</span> | |
