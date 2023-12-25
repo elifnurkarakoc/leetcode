@@ -55,12 +55,12 @@
 | 5 | Reverse Vowels of a String | [✅](./leetcode-75/reverse-vowels-of-a-string/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/reverse-vowels-of-a-string/README.md)|
 | 6 | Reverse Words in a String | [✅](./leetcode-75/reverse-words-in-a-string/solution.ts) | <span style="color:orange">Medium</span> | [✅](./leetcode-75/reverse-words-in-a-string//README.md) |
 | 7 | Product of Array Except Self | [✅](./leetcode-75/product-of-array-except-self/solution.ts) | <span style="color:orange">Medium</span> | [✅](./leetcode-75/product-of-array-except-self/README.md) |
-| 8 | Increasing Triplet Subsequence | [✅](./leetcode-75/increasing-triplet-subsequence/solution.ts) | <span style="color:orange">Medium</span> | [TODO]()|
+| 8 | Increasing Triplet Subsequence | [✅](./leetcode-75/increasing-triplet-subsequence/solution.ts) | <span style="color:orange">Medium</span> | [✅](./leetcode-75/increasing-triplet-subsequence/README.md)|
 | 9 | String Compression | [✅](./leetcode-75/string-compression/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() |
-| | Move Zeroes | [✅](./leetcode-75/move-zeroes/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/move-zeroes/README.md) |
-| | Is Subsequence | [✅](./leetcode-75/is-subsequence/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/is-subsequence/README.md) |
-| | Container With Most Water | []() | <span style="color:orange">Medium</span> | |
-| | Max Number of K-Sum Pairs | []() | <span style="color:orange">Medium</span> | |
+| 10 | Move Zeroes | [✅](./leetcode-75/move-zeroes/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/move-zeroes/README.md) |
+| 11 | Is Subsequence | [✅](./leetcode-75/is-subsequence/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/is-subsequence/README.md) |
+| 12 | Container With Most Water | []() | <span style="color:orange">Medium</span> | |
+| 13 | Max Number of K-Sum Pairs | []() | <span style="color:orange">Medium</span> | |
 | | Maximum Average Subarray I | []() | <span style="color:green">Easy</span> | |
 | | Maximum Number of Vowels in a Substring of Given Length | []() | <span style="color:orange">Medium</span> | |
 | | Max Consecutive Ones III | []() | <span style="color:orange">Medium</span> | |
