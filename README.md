@@ -61,7 +61,7 @@
 | 11 | Is Subsequence | [✅](./leetcode-75/is-subsequence/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/is-subsequence/README.md) |
 | 12 | Container With Most Water | []() | <span style="color:orange">Medium</span> | |
 | 13 | Max Number of K-Sum Pairs | []() | <span style="color:orange">Medium</span> | |
-| | Maximum Average Subarray I | []() | <span style="color:green">Easy</span> | |
+| 14 | Maximum Average Subarray I | [✅](./leetcode-75/maximum-average-subarray-i/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/maximum-average-subarray-i/README.md) |
 | | Maximum Number of Vowels in a Substring of Given Length | []() | <span style="color:orange">Medium</span> | |
 | | Max Consecutive Ones III | []() | <span style="color:orange">Medium</span> | |
 | | Longest Subarray of 1's After Deleting One Element | []() | <span style="color:orange">Medium</span> | |
