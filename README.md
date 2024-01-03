@@ -90,7 +90,7 @@
 | | Maximum Level Sum of a Binary Tree | []() | <span style="color:orange">Medium</span> | |
 | | Search in a Binary Search Tree | [✅](./leetcode-75/search-in-a-binary-search-tree/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/search-in-a-binary-search-tree/README.md) |
 | | Delete Node in a BST | []() | <span style="color:orange">Medium</span> | |
-| | Keys and Rooms | []() | <span style="color:orange">Medium</span> | |
+| | Keys and Rooms | [✅](./leetcode-75/keys-and-rooms/solution.ts) | <span style="color:orange">Medium</span> | [TODO](./leetcode-75/keys-and-rooms/README.md) |
 | | Number of Provinces | []() | <span style="color:orange">Medium</span> | |
 | | Reorder Routes to Make All Paths Lead to the City Zero | []() | <span style="color:orange">Medium</span> | |
 | | Evaluate Division | []() | <span style="color:orange">Medium</span> | |
