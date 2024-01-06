@@ -59,7 +59,7 @@
 | 9 | String Compression | [✅](./leetcode-75/string-compression/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() |
 | 10 | Move Zeroes | [✅](./leetcode-75/move-zeroes/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/move-zeroes/README.md) |
 | 11 | Is Subsequence | [✅](./leetcode-75/is-subsequence/solution.ts) | <span style="color:green">Easy</span> | [✅](./leetcode-75/is-subsequence/README.md) |
-| 12 | Container With Most Water | []() | <span style="color:orange">Medium</span> | |
+| 12 | Container With Most Water | [✅](./leetcode-75/container-with-most-water/solution.ts) | <span style="color:orange">Medium</span> | [TODO]() |
 | 13 | Max Number of K-Sum Pairs | []() | <span style="color:orange">Medium</span> | |
 | 14 | Maximum Average Subarray I | [✅](./leetcode-75/maximum-average-subarray-i/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/maximum-average-subarray-i/README.md) |
 | | Maximum Number of Vowels in a Substring of Given Length | []() | <span style="color:orange">Medium</span> | |
