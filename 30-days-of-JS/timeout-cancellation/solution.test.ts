@@ -6,8 +6,6 @@ describe('cancellable', () => {
     const result = [];
 
     const fn = x => x * 5;
-    const args = [2];
-    const t = 20;
     const cancelT = 50;
 
     const start = performance.now();
@@ -19,7 +17,7 @@ describe('cancellable', () => {
 
     const cancel = cancellable(log, [2], 20);
 
-    setTimeout(cancel, cancelT);
+    setTimeout(cancel(), cancelT);
 
     const timer = setTimeout(() => {
       console.log(...result); // [{"time":20,"returned":10}]
