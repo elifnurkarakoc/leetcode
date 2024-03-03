@@ -65,7 +65,7 @@
 | | Maximum Number of Vowels in a Substring of Given Length | []() | <span style="color:orange">Medium</span> | |
 | | Max Consecutive Ones III | []() | <span style="color:orange">Medium</span> | |
 | | Longest Subarray of 1's After Deleting One Element | []() | <span style="color:orange">Medium</span> | |
-| | Find the Highest Altitude | []() | <span style="color:green">Easy</span> | |
+| | Find the Highest Altitude | [✅](./leetcode-75/find-the-highest-altitude/solution.ts) | <span style="color:green">Easy</span> | |
 |   | Find Pivot Index |  [✅](./leetcode-75/find-pivot-index/solution.ts) | <span style="color:green">Easy</span> |[✅](./leetcode-75/find-pivot-index/README.md) |
 | | Find the Difference of Two Arrays | []() | <span style="color:green">Easy</span> | |
 | | Unique Number of Occurrences | []() | <span style="color:green">Easy</span> | |
